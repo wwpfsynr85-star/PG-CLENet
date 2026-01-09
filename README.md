@@ -7,7 +7,7 @@ The proposed method leverages PET-derived metabolic priors to enhance CT images 
 
 <!-- Method overview figure -->
 <p align="center">
-  <img src="figures/Fig1.png" width="800">
+  <img src="figures/Fig1.jpg" width="800">
 </p>
 
 ---
